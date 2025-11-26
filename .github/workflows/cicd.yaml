@@ -37,7 +37,7 @@ jobs:
 
   Continuous-Deployment:
     needs: Continuous-Integration
-    runs-on: selfhosted
+    runs-on: self-hosted
 
 # Runner Registration
 
